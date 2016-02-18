@@ -1,0 +1,24 @@
+* {
+	outline: 1px solid red !important;
+}
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+h1 {
+	color: #ffffff;
+	background-color: #33BEBE;
+	font-family: sans-serif;
+}
+.screenshot {
+	max-width: 460px;
+}
+.description {
+	max-width: 705px;
+}
+.app {
+	display: -webkit-flex;
+}
+
